@@ -1,3 +1,4 @@
+package com.codility.lessons;
 import java.util.Arrays;
 
 // you can also use imports, for example:
@@ -6,7 +7,7 @@ import java.util.Arrays;
 // you can write to stdout for debugging purposes, e.g.
 // System.out.println("this is a debug message");
 
-class Solution {
+class Lesson1Solution {
 
 	public static int solution(int N) {
 
